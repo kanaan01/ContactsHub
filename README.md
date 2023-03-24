@@ -6,7 +6,7 @@
 
 ##Getting Started
 
-To get started with ContactsHub, you will need to have Node.js and MongoDB installed on your machine. You can then follow these steps: Clone the repository to your local machine: git clone https://github.com/your-username/ContactsHub.git Navigate to the project directory: cd ContactsHub Install dependencies: npm install Start the server: npm start Open the application in your web browser: http://localhost:5000
+To get started with ContactsHub, you will need to have Node.js and MongoDB installed on your machine. You can then follow these steps: Clone the repository to your local machine: git clone https://github.com/kanaan01/ContactsHub.git Navigate to the project directory: cd ContactsHub Install dependencies: npm install Start the server: npm start Open the application in your web browser: http://localhost:5000
 
 ##Contributing
 
